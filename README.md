@@ -7,9 +7,7 @@
 
 # Atualmente cursando: 📓
 - Ciência e Tecnologia / Ciência da Computação na Universidade Federal do ABC
-- Santander Bootcamp Code Girls
-- Workshop Multi-stack TreinaWeb
-- Minicamp Dev & Data XP Educação
+- Bootcamp Banco de Dados DIO
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
