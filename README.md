@@ -7,7 +7,7 @@
 
 # Atualmente cursando: 📓
 - Ciência e Tecnologia / Ciência da Computação na Universidade Federal do ABC
-- Bootcamp Banco de Dados DIO
+- Técnólogo em Banco de Dados na XPE
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
